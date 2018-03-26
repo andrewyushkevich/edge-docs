@@ -216,7 +216,7 @@ After powering up Edge needs some time to create an access point (AP). Connect t
 
 After the connection succeeded you can run the QGC.
 
-## Configuring QGroundControl for Edge
+## <a name="qgcconf"></a> Configuring QGroundControl for Edge
 
 On the top window choose QGC settings <span style="text-align: center;"><img src="../img/quickstart/qgc_settings_button.png" style="width: 30px; vertical-align:middle"></span> from the main menu.
 
