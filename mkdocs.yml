@@ -69,3 +69,4 @@ pages:
   - 'Reach integration': 'tutorials/reach-integration.md'
 - Changelogs:
   - 'QGC changelog': 'changelogs/qgc-changelog.md'
+  - 'Edge changelog': 'changelogs/edge-changelog.md'
