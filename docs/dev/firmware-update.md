@@ -4,7 +4,7 @@ Along with QGC you can flash your Edge with Etcher.
 
 Download the latest available image and extract it
 
-* [Emlid Edge image v1.3 (2017-12-30)](https://files.emlid.com/edge/firmware/2017-12-30-edge-emlid-v1.3.img.zip)
+* [Emlid Edge image v1.4 (2018-04-02)](https://files.emlid.com/edge/firmware/2018-04-02-edge-emlid-v1.4.img.xz)
 
 ### Etcher (Windows/MacOSX)
 
