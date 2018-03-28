@@ -1,5 +1,20 @@
 ## QGroundControl changelog
 
+### v3.2.4-edge-2.3
+
+* OSX support
+* WiFi setup menu
+    * Display current WiFi mode
+    * Get list of networks from Edge
+    * Add/delete networks
+    * Connect to client network
+* Firmware Updater improvements
+    * OSX support
+    * Save user settings
+    * Disallow connect during update
+* Fix receiving resolution
+* Fix local IP determination for video streaming
+
 ### v3.2.4-edge-2.2
 
 * Firmware Updater improvements
