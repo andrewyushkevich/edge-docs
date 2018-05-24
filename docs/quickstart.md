@@ -132,7 +132,7 @@ Windows 10 | Windows 8 | Windows 7 | Windows Vista | Windows XP
 The Wi-Fi module uses RTL8812AU chipset under the hood which requires drivers that have not been merged with the linux kernel and do not come with most linux distros (yet).
 That’s why you need to build it by yourself for now. In the future this step will be automated.
 
-* Make sure sure you have the required build packages
+* Make sure you have the required build packages
 
     `sudo apt-get install linux-headers-generic build-essential git mokutil`
 
