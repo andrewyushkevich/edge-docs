@@ -14,7 +14,7 @@ ERB support is included to ArduPilot starting with the following versions:
 
 ## Recommended setup
 
-<div style="text-align: center;"><img src="../../img/reach-integration/setup-scheme.png" style="width: 100%;"></div>
+<div style="text-align: center;"><img src="../../img/reach-integration/reach-edge-connection.png" style="width: 100%;"></div>
 
 The setup we recommend goes as follows:
 
