@@ -1,5 +1,43 @@
 ## Edge firmware changelog
 
+### v1.5 (2018-07-04)
+
+System:
+
+* kernel updated to v4.14.34
+
+Modules:
+
+* emlidtool v1.0.7:
+    * Edge support:
+        * Board information
+        * Selftests
+        * Status of modules
+        * Ardupilot setup
+* rcio-firmware v1.3:
+    * GPIO support
+    * Indication during flashing
+* rcio-dkms v1.0.0:
+    * Virtual GPIO support
+    * Support for kernels >= 4.10
+* 8812au-dkms v4.3.21:
+    * Support for new kernels
+* ardupilot:
+    * ArduCopter: 3.5.5
+    * ArduPlane: 3.8.5
+    * ArduRover: 3.3.0
+    * ArduSub: 3.6.0-dev
+* wmd v3.0:
+    * Based on edged library
+    * Setup txpower of AP
+    * Seup name and password of AP
+* acd v2.0:
+    * Based on edge-daemon-skeleton
+* WiFi-RSSI-daemon v1.0:
+    * WiFi RSSI failsafe
+    * Setup minimum signal level
+
+
 ### v1.4 (2018-04-02)
 
 System:
