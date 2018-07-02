@@ -1,5 +1,20 @@
 ## QGroundControl changelog
 
+### v3.2.4-edge-2.4
+
+* Firmware Updater improvements
+    * Fix OSX flashing
+    * More debug information
+    * Many bugfixes
+* Display vehicle type and ardupilot version
+* Presets for Relay Pins
+* RTK indicator now working with Reach
+* Support Reach M+ and Reach RS+
+* Reworked WiFi menu
+    * Improved interface
+    * Added settings of Access Point
+* Setup Wi-Fi RSSI failsafe
+
 ### v3.2.4-edge-2.3
 
 * OSX support
