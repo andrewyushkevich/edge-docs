@@ -39,5 +39,22 @@ You can use `Motors Test` to check motor connection. In `Vehicle Setup` menu cho
 !!! danger "Attention"
     Make sure the propellers are removed before using this. It can be dangerous.
 
-Digital GPIO feature allows you to set RC Output PIN to one of the two states (5V and 0V) without using PWM. You can use it to control things like camera shutter, bottle drop etc.
-It will be implemented soon.
+## Relay Switch
+
+A “Relay” is a digital output pin that can be either 0V or 3.3V. Similar to a servo it allows the flight controller to invoke some action from another device on the vehicle. You can use it to control things like camera shutter, bottle drop etc.
+
+!!! note
+    This feature available only on ArduCopter.
+
+First you need to specify RELAY_PIN parameter in QGC `Parameters`:
+
+<div style="text-align: center;"><img src="../../img/qgc/relay_pin.png"></div><br>
+
+!!! danger "Attention"
+    Don't set digital pin to PWM channel used for control servos!
+
+Next, configure pilot control of the relay. Choose previously selected Relay for one of the free channels in `Flight Modes`:
+
+<div style="text-align: center;"><img src="../../img/qgc/rc_relay_control.png"></div><br>
+
+After that you can switch state of Relay Pin using your RC transmitter.
