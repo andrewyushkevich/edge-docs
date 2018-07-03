@@ -12,6 +12,8 @@ Edge has two LEDs, which are used as status indicators
 | LED state | Demo |
 |-----------|------|
 |<div style="margin-top: 25px">Off</div>|<div><img src="../img/led-status/status_led_inactive.png" style="height: 70px;"></div>  |
+|<div style="margin-top: 25px">Waiting for firmware update</div>|<div><img src="../img/led-status/status_led_cyan.png" style="height: 70px;"></div>  |
+|<div style="margin-top: 25px">Firmware update mode</div>|<div><img src="../img/led-status/status_led_cyan_breathing.gif" style="height: 70px;"></div>  |
 |<div style="margin-top: 25px">Booting</div>|<div><img src="../img/led-status/status_led_white_blinking.gif" style="height: 70px;"></div>  |
 |<div style="margin-top: 25px">Bootstrapping</div>|<div><img src="../img/led-status/status_led_white.png" style="height: 70px;"></div>  |
 |<div style="margin-top: 25px">Preparation for RCIO update </div>|<div><img src="../img/led-status/status_led_cyan_blinking.gif" style="height: 70px;"></div>  |
