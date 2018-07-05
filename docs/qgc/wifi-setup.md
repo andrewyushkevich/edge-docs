@@ -54,3 +54,11 @@ Edge via WiFi.
 <div style="text-align: center;"><img src="../../img/qgc/wifi/client-mode.png"></div><br>
 
 You can easily return to ``Access Point`` mode by click on *switch* button and reconnect your computer to Edge hotspot.
+
+## Hotspot settings
+
+To change the Tx Power, open `Hotspot settings`, and enter preferred value.
+<div style="text-align: center;"><img src="../../img/qgc/wifi/hotspot-settings.png"></div><br>
+
+To change hotspot SSID or/and password, click on `Open dialog` button. If you don't want to change password/SSID, leave the field empty.
+<div style="text-align: center;"><img src="../../img/qgc/wifi/hotspot-conf-dialog.png"></div><br>
