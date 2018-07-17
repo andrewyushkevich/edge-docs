@@ -33,6 +33,11 @@ Connect Reach's upper DF13 port with Edge's **SER1-I2C** port.
 
 <div style="text-align: center;"><img src="../../img/reach-integration/edge-reach-connection.png" style="width: 100%;"></div>
 
+## Connecting Reach M+ to Edge
+
+Connect Reach's JST-GH port with Edge's **SER1-I2C** port.
+
+<div style="text-align: center;"><img src="../../img/reach-integration/edge-reachm.png" style="width: 100%;"></div>
 
 ## Configuring Reach to work with Edge
 
