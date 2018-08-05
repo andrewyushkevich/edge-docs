@@ -19,7 +19,7 @@ Use a JST-GH-6P to JST-GH-6P cable to connect your Edge power module.
 
 ### Modifications for high current setups
 
-By default the maximum current that can be drawn is is 60A. But the module sensor itself allows to measure and draw current up to 200A.
+By default the maximum current that can be drawn is 60A. But the module sensor itself allows to measure and draw current up to 200A.
 
-!!! tip
+!!! tip " "
     In order to achieve this, you need to replace the wires and the connectors that can endure continuous load of 200A
