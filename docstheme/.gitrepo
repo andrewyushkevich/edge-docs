@@ -7,6 +7,6 @@
 	remote = git@github.com:emlid/docstheme.git
 	branch = master
 	commit = 543d4c6f4a75fbe43a25a4c14c47a274e349f3c0
-	parent = a86bb7906ac5c8b48def3f2afd683d2378a42097
+	parent = 243f97c31c6c4df8d576ce6013b2292a21e4e8d9
 	method = merge
 	cmdver = 0.3.1
