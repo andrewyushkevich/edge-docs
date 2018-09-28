@@ -15,6 +15,9 @@
 
 <a href="../../img/hardware/edge_ports_horizontal.png" target="_blank"> ![scheme](https://docs.emlid.com/edge/img/hardware/edge_ports_horizontal.png)</a>
 
+!!! note ""
+	The **SER-I2C** port has internal pull-up resistors in 10 kΩ on SDA and SCL. 
+
 <a href="../../img/hardware/edge_ports_side_view.png" target="_blank"> ![scheme](https://docs.emlid.com/edge/img/hardware/edge_ports_side_view.png)</a>
 
 <a href="../../img/hardware/edge_ports_back.png" target="_blank"> ![scheme](https://docs.emlid.com/edge/img/hardware/edge_ports_back.png)</a>
