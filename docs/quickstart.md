@@ -183,9 +183,6 @@ When you do this, NetworkManager understands that you do not want to roam and wi
 * [Download](http://files.emlid.com/edge/drivers/macosx/036AC_ACH_MacOS10.6_MacOS10.11_Driver_1830.10.b2_1827.4.b22_DropDownMenu_5.0.3.b3.zip) the driver
 * Unzip the downloaded archive and install it from the pkg file
 
-## Ground Control Station
-
-Install [GCS](gcs-installation.md) specifically tailored for Edge.
 
 ## Power from a battery
 
@@ -214,9 +211,16 @@ After powering up Edge needs some time to create an access point (AP). Connect t
 !!! attention
     Be sure you connect to AP using the external Wi-Fi module, not the built-in Wi-Fi module of your laptop
 
-After the connection succeeded you can run the QGC.
+After the connection succeeded you can install and run the QGC.
+
+<!-- ## Ground Control Station
+
+Install [GCS](gcs-installation.md) specifically tailored for Edge. -->
 
 ## <a name="qgcconf"></a> Configuring QGroundControl for Edge
+
+!!! attention
+    Install [GCS](gcs-installation.md) specifically tailored for Edge.
 
 On the top window choose QGC settings <span style="text-align: center;"><img src="../img/quickstart/qgc_settings_button.png" style="width: 30px; vertical-align:middle"></span> from the main menu.
 
